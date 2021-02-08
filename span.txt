@@ -1,0 +1,38 @@
+﻿&text_intro_1=Saltar la Introducción
+&text_schwester_1=Buen Día, Doctor.
+&text_schwester_2=Bienvenido al Psiquiátrico.
+&text_schwester_3=El paciente le espera ya.
+Puede entrar a la sala por la puerta de seguridad
+&text_schwester_4=Cómo puedo ayudarle?
+&text_schwester_5a=Desea Ud
+&text_schwester_5b=Recibir nuevamente sus instrucciones,
+&text_schwester_5c=averiguar más sobre el Psiquiátrico, o bien
+&text_schwester_5d=adquirir uno de nuestros perturbados Pacientes?
+&text_schwester_5b1=Su tarea es ayudar a los pacientes de nuestra institución a recuperar, en cuanto sea posible, su vida normal como muñecos de peluches. 
+&text_schwester_5b2=Para ello cuenta Ud. con todos los métodos terapéuticos actuales y clásicos.
+Ayuda específica para cada caso puede encontrar en la división de Supervisión.
+&text_schwester_5c1=Ud. se encuentra en el Asilo Psiquiátrico para Muñecos de Peluche perturbados. 
+El médico en jefe es el Doctor Kindermann, quien se encuentra temporalmente en un simposio internacional en el Japón.
+&text_schwester_5c2=En casos urgentes puede Ud. enviarle un mensaje privado, 
+o bien puede Ud. dejarle un mensaje en el Libro de Médicos, que empero puede ser leído por todo el personal médico de nuestra institución.
+&text_schwester_5d1=Diríjase a la sala donde se encuentran nuestros pacientes y seleccione uno.
+Una vez en el consultorio, llámeme mediante la opción "comprar".
+&text_schwester_5d2=Una vez hecho esto le preparo al paciente para traslado y nos ponemos de acuerdo en cuanto a los términos del traspaso y despacho.
+
+&text_vertrag_menu_1=- Comprar Paciente
+- Condiciones de Compra
+- Despacho
+- Formas de Pago
+- Detalles del Producto
+&text_vertrag_menu_2=- No Comprar al Paciente
+&text_vertrag_menu_kauf1=Indique por favor su nombre y la dirección a la cual debe ser enviado el Paciente.
+
+&infoboarddatum=14.12.2004
+&infoboard1=Estimados Colegas,
+Les deseo informar de lo siguiente:
+1. Los pacientes se encuentran desde ya lo suficientemente estables como para ser trasladados y abandonar permanentemente el psiquiátrico, por supuesto con la condición de recibir ayuda calificada!
+&infoboard2=2. . En caso de estar interesado en la redistribución de pacientes en su negocio, favor contactarme directamente.
+Con mis mejores deseos,
+Dr. Kindermann
+&shop=open&gewinnspiel=false
+&geladen=true

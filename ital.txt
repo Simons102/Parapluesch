@@ -1,0 +1,37 @@
+﻿&text_intro_1=skip intro
+&text_schwester_1=Buongiorno Dottore!
+&text_schwester_2=Benvenuto nella Clinica dei Pupazzi.
+&text_schwester_3=I pazienti la stanno già aspettando.
+Si senta libero di utilizzare la porta di sicurezza.
+&text_schwester_4=Posso aiutarla in qualche modo?
+&text_schwester_5a=
+&text_schwester_5b=Posso rispiegarle ancora quello che deve fare?
+&text_schwester_5c=Gradirebbe maggiori informazioni su questa istituzione?
+&text_schwester_5d=Vorrebbe comprare uno dei nostri coccolosi giocattoli malati?
+&text_schwester_5b1=E' suo dovere assistere questi pazienti per il ritorno ad una normale vita da giocattoli da coccolare.
+&text_schwester_5b2=Tutti i metodi standard di trattamento sono a sua completa disposizione.
+Se mai dovesse avere bisogno d'aiuto usi il pulsante ASSISTENZA durante la terapia.
+&text_schwester_5c1=Questa é una clinica per pupazzi maltrattati.  
+A causa di un progetto di ricerca scientifica, il primario, Dottor Kinderman, é dovuto partire per il Giappone. Lei deve sostituirlo! Buona Fortuna!!! 
+&text_schwester_5c2=In casi estremi può mandare un messaggio e-mail al Dottor Kinderman stesso o scrivere i suoi dubbi nel libro degli ospiti del dottore.
+&text_schwester_5d1=Vada nella sala d'aspetto e clicchi sul paziente che vuol comprare. 
+Se é nella stanza della terapia può chiamarmi con il pulsante COMPRA IL PAZIENTE.
+&text_schwester_5d2=Preparerò il paziente e poi discuteremo le condizioni per la spedizione.
+
+&text_vertrag_menu_1=- comprare il paziente
+- Allgemeine Vertragsbedingungen
+- Lieferung
+- Bezahlung
+- Produktdetails
+
+&infoboarddatum=2004-09-24
+&infoboard1=Cari colleghi,
+vorrei informarvi di quanto segue:
+- I pazienti saranno disponibili per la terapia nella vostra casa alla fine di Novembre 2004. Se volete essere aggiornati sugli ultimi sviluppi della clinica, iscrivetevi alla newsletter medica.
+
+&infoboard2=2. Avete un'impresa e siete interessati alla vendita di qualcuno dei nostri pazienti? Contattatemi!
+
+Cordiali saluti,
+Dr. Kindermann
+&shop=open&gewinnspiel=false
+&geladen=true

@@ -1,0 +1,39 @@
+﻿&text_intro_1=Vorgeschichte Überspringen
+&text_schwester_1=Guten Tag, Doktor.
+&text_schwester_2=Willkommen in der Anstalt.
+&text_schwester_3=Die Patienten erwarten Sie bereits.
+Gehen Sie einfach durch die Sicherheitstür
+&text_schwester_4=Wie kann ich Ihnen helfen?
+&text_schwester_5a=Wollen Sie
+&text_schwester_5b=Ihre genaue Aufgabe nochmals beschrieben bekommen,
+&text_schwester_5c=etwas über diese psychiatrische Anstalt erfahren oder
+&text_schwester_5d=ein psychisch krankes Kuscheltier (Plem Plem) erwerben?
+&text_schwester_5b1=Sie müssen den Patienten der Anstalt helfen, wieder weitestgehend normale Leben als  Kuscheltiere zu führen. 
+&text_schwester_5b2=Ihnen stehen alle gängigen Therapie-methoden zur verfügung.
+Konkretere Hilfe zu den einzelnen Fällen erhalten Sie über die Supervision.
+&text_schwester_5c1=Dies ist die Psychiatrische-Anstalt für seelisch kranke Kuscheltiere. 
+Chefarzt ist Dr. Kindermann, der sich zur Zeit auf einer Forschungsreise  in Japan befindet.
+&text_schwester_5c2=In dringenden Fällen können Sie ihm eine persönliche Nachricht schicken, 
+oder sie hinterlassen einen Bericht im Ärztebuch, der allerdings vom gesamten medizinischen Personal einsehbar ist.
+&text_schwester_5d1=Gehen Sie in den Aufenthaltsraum, und suchen Sie sich eines per Mausklick aus.
+Wenn Sie im Therapieraum sind, rufen Sie mich über den Punkt "Kaufen".
+&text_schwester_5d2=Ich verpacke Ihnen dann das Plem Plem und wir regeln den Kaufvertrag und die Lieferbedingungen.
+
+&text_vertrag_menu_1=- Patient kaufen
+- Allgemeine Vertragsbedingungen
+- Lieferung
+- Bezahlung
+- Produktdetails
+&text_vertrag_menu_2=- Patient doch nicht kaufen
+&text_vertrag_menu_kauf1=Bitte geben Sie Ihren Name und die Adresse an, zu der wird Ihnen das Plem Plem schicken sollen.
+
+&infoboarddatum=14.12.2004
+&infoboard1=Sehr geehrte Kolleginnen und Kollegen,
+Hier die Neuigkeiten:
+1. Ich freue mich Ihnen mitteilen zu können, dass alle Patienten (mit ausnahme von Sly) für die Heimtherapie wieder zur Verfügung stehen.
+2. Es gibt eine neue Verlosung im Ärzteforum, bei der man Patienten für die Heimtherapie gewinnen kann. Alle Kolleginnen und Kolegen sind herzlich eingeladen. Sie endet am 3. Advent.
+&infoboard2=3. Falls Sie Interesse haben, die Patienten über Ihre Einrichtung/Geschäft weiterzuvermitteln, würde ich mich freuen, wenn Sie mich persönlich kontaktieren.
+Mit kollegialen Grüßen,
+Dr. Kindermann
+&shop=open&gewinnspiel=false
+&geladen=true

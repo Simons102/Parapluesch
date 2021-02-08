@@ -1,0 +1,39 @@
+﻿&text_intro_1=Passer l’introduction
+&text_schwester_1=Bonjour docteur.
+&text_schwester_2=Bienvenue à l’asile psychiatrique.
+&text_schwester_3=Les patients vous attendent déjà.
+Passez la porte de sécurité.
+&text_schwester_4=Puis-je vous aider?
+&text_schwester_5a=Souhaitez-vous
+&text_schwester_5b=que je vous explique encore une fois vos fonctions?
+&text_schwester_5c=Souhaitez-vous de plus amples informations sur cet asile?
+&text_schwester_5d=Souhaitez-vous acheter l’un des animaux en peluche atteint d'une maladie psychique (zinzin)?
+&text_schwester_5b1=Votre tâche est d’aider les patients de l’asile à mener de nouveau une vie normale d’animal en peluche. 
+&text_schwester_5b2=Pour vous aidez dans votre tâche, toutes les méthodes standard sont mises à votre disposition.
+Si vous avez besoin d’aide, utiliser le bouton „Assistance professionnelle“ durant la thérapie.
+&text_schwester_5c1=Voici l’asile psychiatrique pour animaux en peluche atteints de maladies psychiques. En raison d’un projet de recherche scientifique, le Dr. Kindermann doit malheureusement se rendre au Japon. A vous de le remplacer. Bonne chance!
+&text_schwester_5c2=En cas d’urgence, vous pouvez lui envoyer un message personnel ou bien lui laisser un rapport dans le livre d’or des médecins, qui peut être consulté par l’ensemble du personnel médical.
+&text_schwester_5d1=Rendez-vous dans la salle de repos et sélectionnez l’un des animaux en peluche en cliquant sur la souris.
+Lorsque vous vous trouverez dans la salle de thérapie, appelez moi en cliquant sur „acheter“.
+&text_schwester_5d2=Je vous emballerai le zinzin et nous discuterons ensuite du contrat d’achat et des conditions de livraison.
+
+&text_vertrag_menu_1=- Achat du patient
+- Conditions générales contractuelles
+- Livraison
+- Paiement
+- Description détaillée du produit
+&text_vertrag_menu_2=- Renoncement à l’achat du patient
+&text_vertrag_menu_kauf1=Veuillez s’il vous plait inscrire votre nom et l’adresse à laquelle nous devons vous livrer le zinzin.
+
+&infoboarddatum=28.11.2007
+&infoboard1=Chèr(e)s collègues,
+j’aimerais vous faire part de certains points:
+
+1.Si vous souhaitez que nous vous tenions au courant des derniers développements qui s’opérent à la clinique psychiatrique, vous avez la possibilité de vous inscrire au forum médical!
+
+2.Si vous avez un commerce et êtes intéressé(e) par la vente de nos patients, n'hésitez pas à me contacter!
+
+Cordialement,
+Dr. Kindermann
+&shop=open&gewinnspiel=false
+&geladen=true

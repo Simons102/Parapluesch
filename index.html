@@ -1,0 +1,41 @@
+<html>
+<!-- created by Martin Kittsteiner, original available at http://www.parapluesch.de 
+    (or more specifically http://www.parapluesch.de/whiskystore/test.htm)
+    sadly the original still requires flash; this is a slighly modified version that uses ruffle (see https://ruffle.rs) -->
+<head>
+    <meta charset="UTF-8">
+    <title>Die Anstalt - Psychiatrie für misshandelte Kuscheltiere</title>
+    <style>
+        body {
+            margin: 0;
+            background: black;
+        }
+
+        .PlayerContainer {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    <script src="ruffle/ruffle.js"></script>
+    <script>
+        window.RufflePlayer = window.RufflePlayer || {};
+
+        let player;
+
+        window.addEventListener("DOMContentLoaded", () => {
+            let ruffle = window.RufflePlayer.newest();
+            player = ruffle.createPlayer();
+            player.style.width = "100%";
+            player.style.height = "100%";
+            let container = document.getElementById("container");
+            container.appendChild(player);
+            player.load("anstalt_kore.swf");
+        });
+    </script>
+</head>
+
+<body>
+    <div id="container" class="PlayerContainer"></div>
+</body>
+
+</html>

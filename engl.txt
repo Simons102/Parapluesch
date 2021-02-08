@@ -1,0 +1,35 @@
+﻿&text_intro_1=skip intro
+&text_schwester_1=Morning, doctor.
+&text_schwester_2=Welcome to the psychiatric clinic.
+&text_schwester_3=The patients are already waiting for you.
+Feel free to go through the safety door.
+&text_schwester_4=Can I be of any help to you?
+&text_schwester_5a=
+&text_schwester_5b=Should I explain your job again?
+&text_schwester_5c=Would you like to receive further information on this institution?
+&text_schwester_5d=Would you like to buy one of our mentally ill cuddly toys (DozyDozies)?
+&text_schwester_5b1=It is your responsibility to assist  the patients in returning to a normal life as cuddly toys.
+&text_schwester_5b2=All standard methods of treatment are at your disposal.
+Whenever you need a helping hand use the SUPERVISION-button in during the therapy.
+&text_schwester_5c1=This is a psychiatric clinic for abused cuddly toys.  
+Due to a research project, Dr. Kindermann unfortunately had to leave for Japan. You have to replace him. Good luck!
+&text_schwester_5c2=In urgent cases, you can send a personal email to Dr. Kindermann or you can leave your questions/statements in the doctors' guest book.
+&text_schwester_5d1=Go into the patients' lounge and click  on the patient you want to buy.
+If you are in the therapy room, you can call me with the button "buy patient".
+&text_schwester_5d2=I will then warp up the DozyDozy and we'll discuss the delivery conditions.
+
+&text_vertrag_menu_1=- Patient kaufen
+- Allgemeine Vertragsbedingungen
+- Lieferung
+- Bezahlung
+- Produktdetails
+
+&infoboarddatum=2004-09-24
+&infoboard1=Dear colleagues,
+I would like to inform you of the following points:
+1. The following patients are avaiable for home therapy at the moment. It is not decided jet, but maybe Sly is not going to be produced. If you would like us to keep you up to date with the latest developments here at the psychiatric clinic, please subscribe to the medical newsletter.
+&infoboard2=2. You have a business and you are interested in selling some of our patients? Please contact me!
+Best regards,
+Dr. Kindermann
+&shop=open&gewinnspiel=false
+&geladen=true
